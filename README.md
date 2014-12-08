@@ -1,4 +1,4 @@
-# We Like Hunot !
+# We Like Hubot !
 
 ### install
 git clone ~

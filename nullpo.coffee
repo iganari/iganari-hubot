@@ -11,12 +11,12 @@ module.exports = (robot) ->
   robot.hear /ぬるぽ/i, (msg) ->
     msg.send """
 ```
-Λ＿Λ ＼＼
+   Λ＿Λ   ＼＼
 （ ・∀・） | | ｶﾞｯ
-と ） | |
-Ｙ /ノ 人
-/ ） < > _Λ ∩
-＿/し' ／／ Ｖ｀Д´）/
-（＿フ彡 / ←>>  @#{msg.message.user.name} 
+と      ） | |
+  Y   /ノ   人
+     / ） <    > _Λ   ∩
+  ＿/し' ／／ Ｖ｀Д´）/
+（＿フ彡             / ←>>  @#{msg.message.user.name} 
 ```
 """ 
