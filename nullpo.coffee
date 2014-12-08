@@ -15,7 +15,7 @@ module.exports = (robot) ->
 （ ・∀・） | | ｶﾞｯ
 と      ） | |
   Y   /ノ   人
-     / ） <    >  _Λ   ∩
+     / ） <    > _Λ   ∩
   ＿/し' ／／ Ｖ｀Д´）/
 （＿フ彡             / ←>>  @#{msg.message.user.name} 
 ```
