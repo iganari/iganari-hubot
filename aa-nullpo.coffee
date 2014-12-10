@@ -1,11 +1,9 @@
 # Description:
-# Joke commands.
+# Note
+# ぬるぽ
 #
 # Commands:
 # hubot  ぬるぽ - You reply with, "ｶﾞｯ" When you post a "ぬるぽ" word.
-#
-# Notes:
-# ネタ/ジョーク系のbot全般
  
 module.exports = (robot) ->
   robot.hear /ぬるぽ/i, (msg) ->
